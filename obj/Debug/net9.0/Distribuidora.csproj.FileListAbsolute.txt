@@ -1,0 +1,14 @@
+C:\Users\carlo\OneDrive\Desktop\Distribuidora\bin\Debug\net9.0\Distribuidora.exe
+C:\Users\carlo\OneDrive\Desktop\Distribuidora\bin\Debug\net9.0\Distribuidora.deps.json
+C:\Users\carlo\OneDrive\Desktop\Distribuidora\bin\Debug\net9.0\Distribuidora.runtimeconfig.json
+C:\Users\carlo\OneDrive\Desktop\Distribuidora\bin\Debug\net9.0\Distribuidora.dll
+C:\Users\carlo\OneDrive\Desktop\Distribuidora\bin\Debug\net9.0\Distribuidora.pdb
+C:\Users\carlo\OneDrive\Desktop\Distribuidora\obj\Debug\net9.0\Distribuidora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\OneDrive\Desktop\Distribuidora\obj\Debug\net9.0\Distribuidora.AssemblyInfoInputs.cache
+C:\Users\carlo\OneDrive\Desktop\Distribuidora\obj\Debug\net9.0\Distribuidora.AssemblyInfo.cs
+C:\Users\carlo\OneDrive\Desktop\Distribuidora\obj\Debug\net9.0\Distribuidora.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Desktop\Distribuidora\obj\Debug\net9.0\Distribuidora.dll
+C:\Users\carlo\OneDrive\Desktop\Distribuidora\obj\Debug\net9.0\refint\Distribuidora.dll
+C:\Users\carlo\OneDrive\Desktop\Distribuidora\obj\Debug\net9.0\Distribuidora.pdb
+C:\Users\carlo\OneDrive\Desktop\Distribuidora\obj\Debug\net9.0\Distribuidora.genruntimeconfig.cache
+C:\Users\carlo\OneDrive\Desktop\Distribuidora\obj\Debug\net9.0\ref\Distribuidora.dll
