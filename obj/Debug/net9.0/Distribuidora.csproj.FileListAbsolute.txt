@@ -12,3 +12,4 @@ C:\Users\carlo\OneDrive\Desktop\Distribuidora\obj\Debug\net9.0\refint\Distribuid
 C:\Users\carlo\OneDrive\Desktop\Distribuidora\obj\Debug\net9.0\Distribuidora.pdb
 C:\Users\carlo\OneDrive\Desktop\Distribuidora\obj\Debug\net9.0\Distribuidora.genruntimeconfig.cache
 C:\Users\carlo\OneDrive\Desktop\Distribuidora\obj\Debug\net9.0\ref\Distribuidora.dll
+C:\Users\carlo\OneDrive\Desktop\Distribuidora\obj\Debug\net9.0\Distribuidora.sourcelink.json

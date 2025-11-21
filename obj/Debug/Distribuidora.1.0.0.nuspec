@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Distribuidora</id>
+    <version>1.0.0</version>
+    <authors>Distribuidora</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="e6b4055eb6cf429cb40b452c23689f9d77ea9d0c" />
+    <dependencies>
+      <group targetFramework="net9.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\carlo\OneDrive\Desktop\Distribuidora\bin\Debug\net9.0\Distribuidora.runtimeconfig.json" target="lib\net9.0\Distribuidora.runtimeconfig.json" />
+    <file src="C:\Users\carlo\OneDrive\Desktop\Distribuidora\bin\Debug\net9.0\Distribuidora.dll" target="lib\net9.0\Distribuidora.dll" />
+  </files>
+</package>

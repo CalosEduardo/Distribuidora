@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Distribuidora")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9a327aeffe522346db7ba5a66e7fdb966e4253e8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e6b4055eb6cf429cb40b452c23689f9d77ea9d0c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Distribuidora")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Distribuidora")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
