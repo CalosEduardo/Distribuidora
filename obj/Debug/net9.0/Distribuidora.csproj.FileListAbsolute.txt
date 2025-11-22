@@ -13,3 +13,8 @@ C:\Users\carlo\OneDrive\Desktop\Distribuidora\obj\Debug\net9.0\Distribuidora.pdb
 C:\Users\carlo\OneDrive\Desktop\Distribuidora\obj\Debug\net9.0\Distribuidora.genruntimeconfig.cache
 C:\Users\carlo\OneDrive\Desktop\Distribuidora\obj\Debug\net9.0\ref\Distribuidora.dll
 C:\Users\carlo\OneDrive\Desktop\Distribuidora\obj\Debug\net9.0\Distribuidora.sourcelink.json
+C:\Users\carlo\OneDrive\Desktop\Distribuidora\obj\Debug\net9.0\Distribuidora.csproj.AssemblyReference.cache
+C:\Users\carlo\OneDrive\Desktop\Distribuidora\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\carlo\OneDrive\Desktop\Distribuidora\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\carlo\OneDrive\Desktop\Distribuidora\bin\Debug\net9.0\Npgsql.dll
+C:\Users\carlo\OneDrive\Desktop\Distribuidora\obj\Debug\net9.0\Distribu.D1F41C25.Up2Date

@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace Distribuidora.Models
 {
-    internal class TipoTransacao
+    public enum TipoTransacao
     {
+        Entrada,
+        Saida
     }
 }
