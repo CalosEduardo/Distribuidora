@@ -1,0 +1,1042 @@
+{
+  "Version": 1,
+  "Hash": "5uy1TVqZkFKMIPjAcLDWAARE9Aqi/eBbZS6616vabEw=",
+  "Source": "Distribuidora",
+  "BasePath": "_content/Distribuidora",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Distribuidora/wwwroot",
+      "Source": "Distribuidora",
+      "ContentRoot": "/home/ronicley/Documentos/coisas/teste/Distribuidora/wwwroot/",
+      "BasePath": "_content/Distribuidora",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/home/ronicley/Documentos/coisas/teste/Distribuidora/obj/Debug/net9.0/compressed/8kwosuqble-jxhglu19bl.gz",
+      "SourceId": "Distribuidora",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/ronicley/Documentos/coisas/teste/Distribuidora/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/Distribuidora",
+      "RelativePath": "css/style#[.{fingerprint=jxhglu19bl}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/home/ronicley/Documentos/coisas/teste/Distribuidora/wwwroot/css/style.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "yedvrdns9n",
+      "Integrity": "qhSzsVIlw+J/m+m5r/r2cXGfJtSljUE6MbiHiNpSefc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/home/ronicley/Documentos/coisas/teste/Distribuidora/wwwroot/css/style.css"
+    },
+    {
+      "Identity": "/home/ronicley/Documentos/coisas/teste/Distribuidora/obj/Debug/net9.0/compressed/j3w3nnerb7-fzjclxghh1.gz",
+      "SourceId": "Distribuidora",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/ronicley/Documentos/coisas/teste/Distribuidora/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/Distribuidora",
+      "RelativePath": "index#[.{fingerprint=fzjclxghh1}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/home/ronicley/Documentos/coisas/teste/Distribuidora/wwwroot/index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "3fn1kiu87s",
+      "Integrity": "Mdex0njup2uYzYHIN0ksDwdqrogDpy2VVa3Uwkxdp7Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/home/ronicley/Documentos/coisas/teste/Distribuidora/wwwroot/index.html"
+    },
+    {
+      "Identity": "/home/ronicley/Documentos/coisas/teste/Distribuidora/obj/Debug/net9.0/compressed/m4eeldhmkk-d1sln6fnz8.gz",
+      "SourceId": "Distribuidora",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/ronicley/Documentos/coisas/teste/Distribuidora/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/Distribuidora",
+      "RelativePath": "js/app#[.{fingerprint=d1sln6fnz8}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/home/ronicley/Documentos/coisas/teste/Distribuidora/wwwroot/js/app.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "mtv41woyhj",
+      "Integrity": "5mSDl0ppvV75ZgD4TXT3zElP7bZPOK3fZlMI5bbrx8Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/home/ronicley/Documentos/coisas/teste/Distribuidora/wwwroot/js/app.js"
+    },
+    {
+      "Identity": "/home/ronicley/Documentos/coisas/teste/Distribuidora/wwwroot/css/style.css",
+      "SourceId": "Distribuidora",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/ronicley/Documentos/coisas/teste/Distribuidora/wwwroot/",
+      "BasePath": "_content/Distribuidora",
+      "RelativePath": "css/style#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jxhglu19bl",
+      "Integrity": "x3uzbs/xoMIZmqBqRxOZQvGTK6r23Af49vuu/KT+BGs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/style.css"
+    },
+    {
+      "Identity": "/home/ronicley/Documentos/coisas/teste/Distribuidora/wwwroot/index.html",
+      "SourceId": "Distribuidora",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/ronicley/Documentos/coisas/teste/Distribuidora/wwwroot/",
+      "BasePath": "_content/Distribuidora",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fzjclxghh1",
+      "Integrity": "1XYVjS64OZ35E84My5Gf8xPQcVpz08a2Qd2V2L8r8RM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/index.html"
+    },
+    {
+      "Identity": "/home/ronicley/Documentos/coisas/teste/Distribuidora/wwwroot/js/app.js",
+      "SourceId": "Distribuidora",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/ronicley/Documentos/coisas/teste/Distribuidora/wwwroot/",
+      "BasePath": "_content/Distribuidora",
+      "RelativePath": "js/app#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "d1sln6fnz8",
+      "Integrity": "z3/W3X3B7N/OSw1NzTqQGcMFqDQ2yic+hp4dAdQdfxk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/js/app.js"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "css/style.css",
+      "AssetFile": "/home/ronicley/Documentos/coisas/teste/Distribuidora/obj/Debug/net9.0/compressed/8kwosuqble-jxhglu19bl.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000539083558"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1854"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qhSzsVIlw+J/m+m5r/r2cXGfJtSljUE6MbiHiNpSefc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 29 Nov 2025 17:25:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"x3uzbs/xoMIZmqBqRxOZQvGTK6r23Af49vuu/KT+BGs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-x3uzbs/xoMIZmqBqRxOZQvGTK6r23Af49vuu/KT+BGs="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.css",
+      "AssetFile": "/home/ronicley/Documentos/coisas/teste/Distribuidora/wwwroot/css/style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7056"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"x3uzbs/xoMIZmqBqRxOZQvGTK6r23Af49vuu/KT+BGs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 29 Nov 2025 17:25:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-x3uzbs/xoMIZmqBqRxOZQvGTK6r23Af49vuu/KT+BGs="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.css.gz",
+      "AssetFile": "/home/ronicley/Documentos/coisas/teste/Distribuidora/obj/Debug/net9.0/compressed/8kwosuqble-jxhglu19bl.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1854"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qhSzsVIlw+J/m+m5r/r2cXGfJtSljUE6MbiHiNpSefc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 29 Nov 2025 17:25:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qhSzsVIlw+J/m+m5r/r2cXGfJtSljUE6MbiHiNpSefc="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.jxhglu19bl.css",
+      "AssetFile": "/home/ronicley/Documentos/coisas/teste/Distribuidora/obj/Debug/net9.0/compressed/8kwosuqble-jxhglu19bl.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000539083558"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1854"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qhSzsVIlw+J/m+m5r/r2cXGfJtSljUE6MbiHiNpSefc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 29 Nov 2025 17:25:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"x3uzbs/xoMIZmqBqRxOZQvGTK6r23Af49vuu/KT+BGs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jxhglu19bl"
+        },
+        {
+          "Name": "label",
+          "Value": "css/style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-x3uzbs/xoMIZmqBqRxOZQvGTK6r23Af49vuu/KT+BGs="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.jxhglu19bl.css",
+      "AssetFile": "/home/ronicley/Documentos/coisas/teste/Distribuidora/wwwroot/css/style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7056"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"x3uzbs/xoMIZmqBqRxOZQvGTK6r23Af49vuu/KT+BGs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 29 Nov 2025 17:25:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jxhglu19bl"
+        },
+        {
+          "Name": "label",
+          "Value": "css/style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-x3uzbs/xoMIZmqBqRxOZQvGTK6r23Af49vuu/KT+BGs="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.jxhglu19bl.css.gz",
+      "AssetFile": "/home/ronicley/Documentos/coisas/teste/Distribuidora/obj/Debug/net9.0/compressed/8kwosuqble-jxhglu19bl.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1854"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qhSzsVIlw+J/m+m5r/r2cXGfJtSljUE6MbiHiNpSefc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 29 Nov 2025 17:25:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jxhglu19bl"
+        },
+        {
+          "Name": "label",
+          "Value": "css/style.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qhSzsVIlw+J/m+m5r/r2cXGfJtSljUE6MbiHiNpSefc="
+        }
+      ]
+    },
+    {
+      "Route": "index.fzjclxghh1.html",
+      "AssetFile": "/home/ronicley/Documentos/coisas/teste/Distribuidora/obj/Debug/net9.0/compressed/j3w3nnerb7-fzjclxghh1.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000789265983"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1266"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Mdex0njup2uYzYHIN0ksDwdqrogDpy2VVa3Uwkxdp7Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 29 Nov 2025 17:25:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"1XYVjS64OZ35E84My5Gf8xPQcVpz08a2Qd2V2L8r8RM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fzjclxghh1"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1XYVjS64OZ35E84My5Gf8xPQcVpz08a2Qd2V2L8r8RM="
+        }
+      ]
+    },
+    {
+      "Route": "index.fzjclxghh1.html",
+      "AssetFile": "/home/ronicley/Documentos/coisas/teste/Distribuidora/wwwroot/index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5789"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1XYVjS64OZ35E84My5Gf8xPQcVpz08a2Qd2V2L8r8RM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 29 Nov 2025 17:25:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fzjclxghh1"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1XYVjS64OZ35E84My5Gf8xPQcVpz08a2Qd2V2L8r8RM="
+        }
+      ]
+    },
+    {
+      "Route": "index.fzjclxghh1.html.gz",
+      "AssetFile": "/home/ronicley/Documentos/coisas/teste/Distribuidora/obj/Debug/net9.0/compressed/j3w3nnerb7-fzjclxghh1.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1266"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Mdex0njup2uYzYHIN0ksDwdqrogDpy2VVa3Uwkxdp7Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 29 Nov 2025 17:25:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fzjclxghh1"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Mdex0njup2uYzYHIN0ksDwdqrogDpy2VVa3Uwkxdp7Q="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "/home/ronicley/Documentos/coisas/teste/Distribuidora/obj/Debug/net9.0/compressed/j3w3nnerb7-fzjclxghh1.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000789265983"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1266"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Mdex0njup2uYzYHIN0ksDwdqrogDpy2VVa3Uwkxdp7Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 29 Nov 2025 17:25:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"1XYVjS64OZ35E84My5Gf8xPQcVpz08a2Qd2V2L8r8RM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1XYVjS64OZ35E84My5Gf8xPQcVpz08a2Qd2V2L8r8RM="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "/home/ronicley/Documentos/coisas/teste/Distribuidora/wwwroot/index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5789"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1XYVjS64OZ35E84My5Gf8xPQcVpz08a2Qd2V2L8r8RM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 29 Nov 2025 17:25:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1XYVjS64OZ35E84My5Gf8xPQcVpz08a2Qd2V2L8r8RM="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "/home/ronicley/Documentos/coisas/teste/Distribuidora/obj/Debug/net9.0/compressed/j3w3nnerb7-fzjclxghh1.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1266"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Mdex0njup2uYzYHIN0ksDwdqrogDpy2VVa3Uwkxdp7Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 29 Nov 2025 17:25:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Mdex0njup2uYzYHIN0ksDwdqrogDpy2VVa3Uwkxdp7Q="
+        }
+      ]
+    },
+    {
+      "Route": "js/app.d1sln6fnz8.js",
+      "AssetFile": "/home/ronicley/Documentos/coisas/teste/Distribuidora/obj/Debug/net9.0/compressed/m4eeldhmkk-d1sln6fnz8.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000486381323"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2055"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5mSDl0ppvV75ZgD4TXT3zElP7bZPOK3fZlMI5bbrx8Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 29 Nov 2025 17:25:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"z3/W3X3B7N/OSw1NzTqQGcMFqDQ2yic+hp4dAdQdfxk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "d1sln6fnz8"
+        },
+        {
+          "Name": "label",
+          "Value": "js/app.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-z3/W3X3B7N/OSw1NzTqQGcMFqDQ2yic+hp4dAdQdfxk="
+        }
+      ]
+    },
+    {
+      "Route": "js/app.d1sln6fnz8.js",
+      "AssetFile": "/home/ronicley/Documentos/coisas/teste/Distribuidora/wwwroot/js/app.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8186"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z3/W3X3B7N/OSw1NzTqQGcMFqDQ2yic+hp4dAdQdfxk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 29 Nov 2025 17:25:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "d1sln6fnz8"
+        },
+        {
+          "Name": "label",
+          "Value": "js/app.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-z3/W3X3B7N/OSw1NzTqQGcMFqDQ2yic+hp4dAdQdfxk="
+        }
+      ]
+    },
+    {
+      "Route": "js/app.d1sln6fnz8.js.gz",
+      "AssetFile": "/home/ronicley/Documentos/coisas/teste/Distribuidora/obj/Debug/net9.0/compressed/m4eeldhmkk-d1sln6fnz8.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2055"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5mSDl0ppvV75ZgD4TXT3zElP7bZPOK3fZlMI5bbrx8Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 29 Nov 2025 17:25:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "d1sln6fnz8"
+        },
+        {
+          "Name": "label",
+          "Value": "js/app.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5mSDl0ppvV75ZgD4TXT3zElP7bZPOK3fZlMI5bbrx8Q="
+        }
+      ]
+    },
+    {
+      "Route": "js/app.js",
+      "AssetFile": "/home/ronicley/Documentos/coisas/teste/Distribuidora/obj/Debug/net9.0/compressed/m4eeldhmkk-d1sln6fnz8.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000486381323"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2055"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5mSDl0ppvV75ZgD4TXT3zElP7bZPOK3fZlMI5bbrx8Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 29 Nov 2025 17:25:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"z3/W3X3B7N/OSw1NzTqQGcMFqDQ2yic+hp4dAdQdfxk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-z3/W3X3B7N/OSw1NzTqQGcMFqDQ2yic+hp4dAdQdfxk="
+        }
+      ]
+    },
+    {
+      "Route": "js/app.js",
+      "AssetFile": "/home/ronicley/Documentos/coisas/teste/Distribuidora/wwwroot/js/app.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8186"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z3/W3X3B7N/OSw1NzTqQGcMFqDQ2yic+hp4dAdQdfxk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 29 Nov 2025 17:25:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-z3/W3X3B7N/OSw1NzTqQGcMFqDQ2yic+hp4dAdQdfxk="
+        }
+      ]
+    },
+    {
+      "Route": "js/app.js.gz",
+      "AssetFile": "/home/ronicley/Documentos/coisas/teste/Distribuidora/obj/Debug/net9.0/compressed/m4eeldhmkk-d1sln6fnz8.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2055"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5mSDl0ppvV75ZgD4TXT3zElP7bZPOK3fZlMI5bbrx8Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 29 Nov 2025 17:25:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5mSDl0ppvV75ZgD4TXT3zElP7bZPOK3fZlMI5bbrx8Q="
+        }
+      ]
+    }
+  ]
+}
