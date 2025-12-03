@@ -10,7 +10,7 @@ namespace Distribuidora.Models
     {
         public int Id { get; set; }
         public int ProdutoId { get; set; }
-        public string NomeProduto { get; set; }
+        public string? NomeProduto { get; set; }
         public TipoTransacao Tipo { get; set; }
         public int Quantidade { get; set; }
         public decimal ValorUnitario { get; set; }

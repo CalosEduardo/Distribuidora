@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Distribuidora - Sistema de Gestão</title>
+    <meta name="description" content="Sistema de gestão de distribuidora com controle de estoque e vendas">
+    <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🏪 Distribuidora</h1>
+            <p class="subtitle">Sistema de Gestão de Estoque e Vendas</p>
+        </header>
+
+        <section class="dashboard" id="dashboard">
+            <div class="stat-card">
+                <div class="stat-label">Total de Produtos</div>
+                <div class="stat-value" id="totalProdutos">-</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-label">Lucro Total</div>
+                <div class="stat-value" id="lucroTotal">-</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-label">Itens em Estoque</div>
+                <div class="stat-value" id="totalEstoque">-</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-label">Valor do Estoque</div>
+                <div class="stat-value" id="valorEstoque">-</div>
+            </div>
+        </section>
+
+        <section class="main-content">
+            <div class="section-header">
+                <h2 class="section-title">Produtos</h2>
+                <button class="btn btn-primary" onclick="abrirModalNovoProduto()">
+                    ➕ Novo Produto
+                </button>
+            </div>
+
+            <div class="table-container">
+                <table id="produtosTable">
+                    <thead>
+                        <tr>
+                            <th>ID</th>
+                            <th>Nome</th>
+                            <th>Estoque</th>
+                            <th>Preço Custo</th>
+                            <th>Preço Venda</th>
+                            <th>Margem</th>
+                            <th>Ações</th>
+                        </tr>
+                    </thead>
+                    <tbody id="produtosBody">
+                        <tr>
+                            <td colspan="7" class="loading">Carregando...</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </section>
+    </div>
+
+    <!-- Modal Novo Produto -->
+    <div id="modalProduto" class="modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3 class="modal-title" id="modalProdutoTitle">Novo Produto</h3>
+                <button class="close-btn" onclick="fecharModal('modalProduto')">&times;</button>
+            </div>
+            <form id="formProduto" onsubmit="salvarProduto(event)">
+                <input type="hidden" id="produtoId">
+                
+                <div class="form-group">
+                    <label for="nome">Nome do Produto *</label>
+                    <input type="text" id="nome" required>
+                </div>
+
+                <div class="form-group">
+                    <label for="quantidadeEstoque">Quantidade Inicial *</label>
+                    <input type="number" id="quantidadeEstoque" min="0" required>
+                </div>
+
+                <div class="form-group">
+                    <label for="precoCusto">Preço de Custo (R$) *</label>
+                    <input type="number" id="precoCusto" step="0.01" min="0" required>
+                </div>
+
+                <div class="form-group">
+                    <label for="precoVenda">Preço de Venda (R$) *</label>
+                    <input type="number" id="precoVenda" step="0.01" min="0" required>
+                </div>
+
+                <div class="form-actions">
+                    <button type="button" class="btn" onclick="fecharModal('modalProduto')">Cancelar</button>
+                    <button type="submit" class="btn btn-primary">Salvar</button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <!-- Modal Transação -->
+    <div id="modalTransacao" class="modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3 class="modal-title" id="modalTransacaoTitle">Transação</h3>
+                <button class="close-btn" onclick="fecharModal('modalTransacao')">&times;</button>
+            </div>
+            <form id="formTransacao" onsubmit="registrarTransacao(event)">
+                <input type="hidden" id="transacaoProdutoId">
+                
+                <div class="form-group">
+                    <label>Produto</label>
+                    <input type="text" id="transacaoProdutoNome" readonly style="opacity: 0.7;">
+                </div>
+
+                <div class="form-group">
+                    <label for="tipoTransacao">Tipo de Transação *</label>
+                    <select id="tipoTransacao" required>
+                        <option value="Entrada">Entrada (Compra)</option>
+                        <option value="Saida">Saída (Venda)</option>
+                    </select>
+                </div>
+
+                <div class="form-group">
+                    <label for="quantidadeTransacao">Quantidade *</label>
+                    <input type="number" id="quantidadeTransacao" min="1" required>
+                </div>
+
+                <div class="form-actions">
+                    <button type="button" class="btn" onclick="fecharModal('modalTransacao')">Cancelar</button>
+                    <button type="submit" class="btn btn-success">Confirmar</button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <script src="/js/app.js"></script>
+</body>
+</html>

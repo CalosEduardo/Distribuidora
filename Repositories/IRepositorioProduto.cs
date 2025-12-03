@@ -1,15 +1,19 @@
 ﻿using Distribuidora.Models;
-using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 using System.Threading.Tasks;
 
 namespace Distribuidora.Repositories
 {
     public interface IRepositorioProdutos
     {
-        void Salvar(DadosDistribuidora dados);
-        DadosDistribuidora Carregar();
+        Task<List<Produto>> ObterTodosAsync();
+        Task<Produto?> ObterPorIdAsync(int id);
+        Task AdicionarAsync(Produto produto);
+        Task AtualizarAsync(Produto produto);
+        Task RemoverAsync(int id);
+        Task<List<Transacao>> ObterTransacoesAsync();
+        Task RegistrarTransacaoAsync(Transacao transacao);
+        Task<decimal> ObterLucroTotalAsync();
+        Task AtualizarLucroTotalAsync(decimal lucro);
     }
 }

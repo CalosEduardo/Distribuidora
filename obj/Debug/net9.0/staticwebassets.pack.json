@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "/home/ronicley/Documentos/coisas/teste/Distribuidora/wwwroot/css/style.css",
+      "PackagePath": "staticwebassets/css/style.css"
+    },
+    {
+      "Id": "/home/ronicley/Documentos/coisas/teste/Distribuidora/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/home/ronicley/Documentos/coisas/teste/Distribuidora/wwwroot/js/app.js",
+      "PackagePath": "staticwebassets/js/app.js"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.Distribuidora.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.Distribuidora.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.build.Distribuidora.props",
+      "PackagePath": "build\\Distribuidora.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.Distribuidora.props",
+      "PackagePath": "buildMultiTargeting\\Distribuidora.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.Distribuidora.props",
+      "PackagePath": "buildTransitive\\Distribuidora.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
